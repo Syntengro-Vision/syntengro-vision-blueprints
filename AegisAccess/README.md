@@ -1,0 +1,1 @@
+﻿Syntengro AegisAccess Enterprise Architecture Specification
