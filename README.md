@@ -1,1 +1,0 @@
-# syntengro-vision-blueprints
